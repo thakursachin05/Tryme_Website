@@ -1,4 +1,4 @@
-# Tryme_Final
+# Tryme_Webdsite
  A complete Online Store
 
  Languages used:
@@ -6,7 +6,7 @@
  Back-end :- Nodejs,Express
  Database :- MongoDb
 
- Clone this repository by :- gh repo clone thakursachin05/Tryme_Final
+ Clone this repository by :- gh repo clone thakursachin05/Tryme_Website
 
  How to Setup Environment :-
  1. Install Node
