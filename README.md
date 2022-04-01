@@ -14,5 +14,5 @@
  3. Install Nodemon
  4. Download all dependencies by npm install
  4. Run Command npm start
- 5. server localhost:300;
+ 5. server localhost:3000;
  
