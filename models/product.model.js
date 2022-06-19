@@ -1,6 +1,6 @@
 const mongodb = require('mongodb');
 
-const db = require('e:/Tryme_Final/data/database');
+const db = require('../data/database');
 
 class Product {
   constructor(productData) {
