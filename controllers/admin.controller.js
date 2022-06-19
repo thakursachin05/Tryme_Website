@@ -1,5 +1,5 @@
-const Product = require('c:/Users/Sachin Rana/Desktop/Tryme/code/01-finished/models/product.model');
-const Order = require('c:/Users/Sachin Rana/Desktop/Tryme/code/01-finished/models/order.model');
+const Product = require('../models/product.model');
+const Order = require('../models/order.model');
 
 async function getProducts(req, res, next) {
   try {
